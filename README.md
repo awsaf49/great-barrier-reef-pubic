@@ -4,7 +4,7 @@
 ![header](https://user-images.githubusercontent.com/36858976/146447296-af868bfb-283a-4005-8605-569f4d8eca1d.png)
 
 
-## 📒 Kaggle Notebooks:
+## 📒 Kaggle Code/Notebooks:
 * Train: [Great-Barrier-Reef: YOLOv5 [train] 🌊](https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-train)
 * Infer: [Great-Barrier-Reef: YOLOv5 [infer] 🌊](https://www.kaggle.com/awsaf49/great-barrier-reef-yolov5-infer)
 
